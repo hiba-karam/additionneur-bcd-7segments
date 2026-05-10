@@ -26,4 +26,4 @@ Le projet combine deux méthodes de conception numérique :
 * **Configuration :** Fichier Pinout (.pin) détaillant l'assignation des broches physiques du FPGA.
 
 ## Auteurs
-Projet réalisé Hiba Karam en collaboration avec Tarek Souibri - Élèves Ingénieurs @ EMSI.
+Projet réalisé par Hiba Karam en collaboration avec Tarek Souibri - Élèves Ingénieurs @ EMSI.
