@@ -13,5 +13,5 @@ Ce projet est une conception matérielle réalisée sur Quartus II pour un FPGA 
 * **Composants Clés :** Ahdl1.tdf : Logique de table de vérité pour le pilotage des segments. Block1 & Block2 : Blocs logiques intermédiaires pour le traitement des signaux.
 * **Fichiers du Dépôt :** Sources : Fichiers schématiques (.bdf) et code AHDL (.tdf). Simulation : Fichiers Vector Waveform (.vwf) montrant les tests unitaires. Configuration : Fichier Pinout (.pin) détaillant l'assignation des broches physiques du FPGA.
 
-## Auteur(s)
+## Auteurs
 Projet réalisé par Hiba Karam en collaboration avec Tarek Souibri - Élèves Ingénieurs @ EMSI.
